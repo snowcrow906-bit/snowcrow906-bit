@@ -1,7 +1,8 @@
 <div align="center">
 🧪 snowcrow906-bit
 console.log("Hello, world!");
-<img src="https://tenor.com/pt-BR/view/agnes-tachyon-manhattan-cafe-gif-742339323943292036" width="500">
+<img src="./assets/agnes-tachyon.gif" width="500">
+
 
 💻 Estudante • 🌐 Web Development • 🧪 Curious Mind
 
